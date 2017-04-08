@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt \
     WallpaperPickerGooglePrebuilt \
     NexusLauncherPrebuilt \
-    WallpapersUsTwo
+    WallpapersUsTwo \
+    Turbo
 
 # Include package overlays
 PRODUCT_PACKAGE_OVERLAYS += \
